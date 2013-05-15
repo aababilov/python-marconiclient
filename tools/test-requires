@@ -4,6 +4,7 @@ distribute>=0.6.24
 # Unit testing
 discover
 fixtures
+mock>=0.8.0
 mox
 python-subunit
 testrepository
